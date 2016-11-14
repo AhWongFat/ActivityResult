@@ -1,0 +1,11 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Comment,Comment,Task,Task Status,Task,Task Status
+3142059,Make payment,payment,,,,epic,,,"Nov 13, 2016",,,,Make payment,https://www.pivotaltracker.com/epic/show/3142059,,,,,,,
+3142039,Make order,order,,,,epic,,,"Nov 13, 2016",,,,Make food order,https://www.pivotaltracker.com/epic/show/3142039,,"food order (Bryan Wong - Nov 13, 2016)",,,,,
+3142023,Create Menu,menu,,,,epic,,,"Nov 13, 2016",,,,Menu options,https://www.pivotaltracker.com/epic/show/3142023,,"Menu epic (Bryan Wong - Nov 13, 2016)","menu  (Bryan Wong - Nov 13, 2016)",,,,
+134242997,Pay by credit card,payment,1,"Nov 7, 2016","Nov 13, 2016",feature,1,unstarted,"Nov 13, 2016",,,Bryan Wong,Pay using credit card,https://www.pivotaltracker.com/story/show/134242997,
+134242541,Select food,order,1,"Nov 7, 2016","Nov 13, 2016",feature,2,unstarted,"Nov 13, 2016",,,Bryan Wong,Make order,https://www.pivotaltracker.com/story/show/134242541,Bryan Wong,,,Select food,not completed,Add food into orderlist,not completed
+134242683,Edit food order,order,1,"Nov 7, 2016","Nov 13, 2016",feature,1,unstarted,"Nov 13, 2016",,,Bryan Wong,Update food order,https://www.pivotaltracker.com/story/show/134242683,,,,Edit food quantity,completed,Edit ,not completed
+134242721,Delete food order,order,1,"Nov 7, 2016","Nov 13, 2016",feature,1,unstarted,"Nov 13, 2016",,,Bryan Wong,,https://www.pivotaltracker.com/story/show/134242721,,,,Remove food from order list,completed
+134242609,Click confirm,order,1,"Nov 7, 2016","Nov 13, 2016",feature,1,unstarted,"Nov 13, 2016",,,Bryan Wong,click confirm,https://www.pivotaltracker.com/story/show/134242609,
+134242583,Make payment,payment,1,"Nov 7, 2016","Nov 13, 2016",feature,2,unstarted,"Nov 13, 2016",,,Bryan Wong,Make payment,https://www.pivotaltracker.com/story/show/134242583,
+134242481,Add menu option,menu,1,"Nov 7, 2016","Nov 13, 2016",feature,2,unstarted,"Nov 13, 2016",,,Bryan Wong,Add new menu option,https://www.pivotaltracker.com/story/show/134242481,,,,Add order option,not completed,Add payment option,not completed
